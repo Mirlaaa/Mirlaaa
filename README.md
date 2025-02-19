@@ -1,7 +1,6 @@
 <h2 align="left">Hi!👋 I'm Mirla Lopes, a Back-End developer from Brazil 🇧🇷</h2>
 
 ###
-
 <br clear="both">
 
 <div align="left">
@@ -13,6 +12,8 @@
 ###
 
 <br clear="both">
+
+<img align="left" height="150" src="https://64.media.tumblr.com/a8187ae58cf4ee42a680c6dd765d95ac/cd3931f1727f2456-29/s540x810/ac05d308f94fea97366711e08f569d766a75e41d.gifv"  />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -28,7 +29,6 @@
 
 ###
 
-<img align="left" height="150" src="https://64.media.tumblr.com/a8187ae58cf4ee42a680c6dd765d95ac/cd3931f1727f2456-29/s540x810/ac05d308f94fea97366711e08f569d766a75e41d.gifv"  />
 
 ###
 
